@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(42.14deg, #9796F0 -17.31%, #FBC7D4 106.72%);
+}
